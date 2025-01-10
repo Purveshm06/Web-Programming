@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Document</title>
+</head>
+ <h1>My self Purvesh Mahajan</h1>
+ <body>
+    <P>Rohit Sharma (born 30 April 1987) is an Indian international cricketer who currently plays for and captains the India national cricket team in Test and ODI matches. He previously captained in T20 matches and in the country's 2024 T20 World Cup win after which he retired from T20s in June.[3][4] He is considered as one of the best batsmen of his generation and one of the greatest white-ball opening batters of all time.[5]
+He holds several batting records which famously include most runs in T20 Internationals, most sixes in international cricket,[a] most double centuries in ODI cricket (3), most centuries at Cricket World Cups (7) and joint most hundreds in Twenty20 Internationals (5). He is the first player to score 5 T20I centuries.[7] He also holds the world record for the highest individual score (264) in a One Day International (ODI) match and is the only player to have scored three double-centuries in ODIs and also holds the record for scoring most hundreds (five) in a single Cricket World Cup, for which he won the ICC Men's ODI Cricketer of the Year award in 2019. He is the only player to win 50 matches as captain in T20Is.[8]
+He plays for Mumbai Indians and Mumbai cricket team in Indian Premier League (IPL) and domestic cricket respectively. He formerly captained Mumbai Indians and the team has won 5 Indian Premier League titles in 2013, 2015, 2017, 2019 and 2020 under him, making him the most successful captain in IPL history, sharing this record with MS Dhoni. With India, Rohit Sharma was a member of the team that won the 2007 T20 World Cup, and the 2013 ICC Champions Trophy, where he played in the finals of both tournaments. He is also one of two players who have played in every edition of the T20 World Cup, from the inaugural edition in 2007 to the latest one in 2024.[b] He is the only Indian player to win two T20 World Cups. He became the second Indian captain to win a T20 World Cup, when he led India to win the 2024 T20 World Cup.</P>
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus explicabo debitis assumenda hic, quas tenetur impedit incidunt totam veniam reprehenderit, atque sed aspernatur quidem ad minima! Pariatur possimus quaerat dolore.
+    Ipsum laborum consectetur numquam est eaque temporibus non a, adipisci molestias nam harum, eos aperiam fugit maiores odit blanditiis excepturi. Illum nihil nobis a quod eum! Laborum modi blanditiis deleniti.
+    <u>Placeat</u> aliquid reprehenderit iusto, earum corporis ullam ea enim expedita neque rerum voluptas distinctio repellat perferendis atque quo quae quaerat, delectus repellendus et officiis. Amet exercitationem nemo atque eveniet provident.
+    Placeat deleniti odit mollitia aut totam saepe <t>dolorem</t> quae voluptate nesciunt explicabo cupiditate architecto qui soluta, quam nulla. Illo, nesciunt delectus. Sapiente velit aliquam minima debitis sunt, nesciunt veritatis voluptates!
+    Quasi architecto, soluta est quam nulla commodi laboriosam ratione dolore, incidunt iure non a omnis iste nemo, fuga velit odio adipisci. Necessitatibus similique unde hic nostrum animi culpa repellat dolorum?
+    Similique, libero possimus quam mollitia tempora culpa nesciunt eligendi unde ad fuga et aliquam fugiat earum commodi ipsa hic reprehenderit. Facilis quam distinctio possimus mollitia qui quae maiores autem ducimus!
+    Maxime corrupti error aspernatur odit eum rerum similique voluptatibus facilis cum? Enim officiis sit blanditiis corporis laboriosam repudiandae atque beatae maxime. Sit tenetur harum, eum veritatis laboriosam cum sapiente quo!
+    Eligendi assumenda perspiciatis a asperiores ipsam modi tempore! Repudiandae dicta laboriosam placeat molestias at a deserunt ut. Facere vitae ullam laborum voluptatum. Unde necessitatibus atque iusto dolorem, voluptatum harum officiis!
+    Possimus, accusantium. Rem quidem, sit nulla omnis nisi excepturi adipisci nam nostrum laborum incidunt, vel dolores repudiandae dicta ad nobis at vero libero, aspernatur sequi blanditiis. Non nostrum accusamus omnis.
+    Atque amet <b>accusantium</b> repellat, iste facilis architecto quibusdam explicabo saepe esse in eius sed aspernatur molestias. Nihil debitis atque enim aliquam sit distinctio? Autem temporibus molestias tempore molestiae deleniti earum.</P>
+    </body>
+</html>
