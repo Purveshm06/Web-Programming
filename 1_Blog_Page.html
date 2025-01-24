@@ -1,18 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<title>Blog About Rohit Sharma</title>
+    <title>Blog About IPL</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
             line-height: 1.6;
-            background-color: #f4f4f4;
+            background-color: #fff8e1;
             margin: 0;
             padding: 0;
+            color: #333;
         }
 
         header {
-            background-color: #333;
+            background-color: #ff5722;
             color: white;
             padding: 20px;
             text-align: center;
@@ -35,39 +36,55 @@
             color: #555;
         }
 
+        ul {
+            color: #555;
+        }
+
         footer {
             text-align: center;
             padding: 20px;
-            background-color: #333;
+            background-color: #ff5722;
             color: white;
             position: fixed;
             bottom: 0;
             width: 100%;
+        }
+
+        /* Highlight IPL colors */
+        .ipl-team {
+            font-weight: bold;
+            color: #ff9800;
+        }
+
+        .highlight {
+            color: #ff5722;
+            font-weight: bold;
         }
     </style>
 </head>
 <body>
 
     <header>
-        <h1>Rohit Sharma: The Master of Cricket</h1>
+        <h1>IPL: The Thrill of Indian Premier League</h1>
     </header>
 
     <section>
         <h2>Introduction</h2>
         <p>
-            Rohit Sharma is one of the most successful cricketers in India, known for his exceptional batting skills, particularly his ability to score big centuries. 
-            He is also the captain of the Indian cricket team for limited-overs formats and has led his team to numerous victories. His journey in cricket is nothing short of inspiring.
+            The Indian Premier League (IPL) is one of the most popular and exciting cricket leagues in the world. 
+            Founded in 2008, it has taken the world of cricket by storm, combining entertainment, fierce competition, and top-tier talent. 
+            The IPL brings together some of the best cricketers from around the globe and provides them with a platform to showcase their skills.
         </p>
     </section>
 
     <section>
-        <h2>Achievements</h2>
+        <h2>IPL Achievements</h2>
         <p>
-            Rohit Sharma has achieved remarkable feats in his cricket career, including:
+            Over the years, the IPL has seen numerous iconic moments, records, and thrilling performances. Some key achievements include:
             <ul>
-                <li>Scoring three double centuries in One Day Internationals (ODIs), a record.</li>
-                <li>Leading Mumbai Indians to multiple Indian Premier League (IPL) titles.</li>
-                <li>Being known for his consistency and ability to perform in big matches.</li>
+                <li><span class="ipl-team">Mumbai Indians</span> hold the record for the most IPL titles with 5 championships.</li>
+                <li>Chris Gayle’s record-breaking 175* in just 66 balls remains the highest individual score in an IPL match.</li>
+                <li>The IPL's highest team score is 263/5, achieved by the <span class="ipl-team">Kolkata Knight Riders</span>.</li>
             </ul>
         </p>
     </section>
@@ -75,20 +92,21 @@
     <section>
         <h2>Did You Know?</h2>
         <p>
-            Rohit Sharma holds the record for the highest individual score in an ODI match, with an incredible 264 runs.
+            The IPL is not just about cricket; it’s a massive entertainment spectacle with music, cheerleaders, and celebrity appearances. 
+            It also generates millions of dollars in revenue through broadcasting rights, sponsorships, and merchandise sales.
         </p>
     </section>
 
     <section>
         <h2>Fun Fact</h2>
         <p>
-            Let's talk about a simple variable to understand how information can be stored and used. If we consider "rohitAge" as a variable, 
-            the current age of Rohit Sharma would be stored in that variable, and it can be used to display in any part of the page.
+            Let’s talk about a fun variable concept. If we create a variable called "iplSeason" to represent the current season of IPL, 
+            we can easily display it on the page or use it in calculations for upcoming seasons. Here's an example:
         </p>
-        <p><strong>Rohit's age variable: </strong><span id="rohitAge"></span></p>
+        <p><strong>Current IPL Season: </strong><span id="iplSeason"></span></p>
         <script>
-            var rohitAge = 36; // Example age of Rohit Sharma
-            document.getElementById("rohitAge").innerText = rohitAge;
+            var iplSeason = 2025; // Current IPL season
+            document.getElementById("iplSeason").innerText = iplSeason;
         </script>
     </section>
 
