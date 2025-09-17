@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int num[]={11,9,27,66,2,17,5};
+    int i,x,f;
+    cout<<"Array: ";
+    for(i=0;i<7; i++)
+    {
+        cout<<num[i]<<" ";
+    }
+   
+cout<<"Enter number to search";
+cin>>x;
+f=0;
+for(i=0;i<7;i++)
+{
+    if(x==num[i])
+    {
+        cout<<"Number found at index "<<i;
+        f=1;
+        break;
+    }
+}
+    if(f==0)
+{
+       cout<<"Number not found";
+}
+return 0;
+}
